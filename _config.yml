@@ -83,8 +83,7 @@ author:
   name             : "Doina Caragea"
   avatar           : "image001.jpg"
   bio              : "Professor"
-  bio              : "Department of Computer Science"
-  location         : "Location"
+  location         : "Manhattan, KS"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=GuO4UhsAAAAJ&hl=en&oi=ao"
@@ -97,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "dcaragea"
   google_plus      :
   keybase          :
   instagram        :
@@ -110,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
