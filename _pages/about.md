@@ -12,7 +12,7 @@ Professor \
 Director, Machine Learning & Data Science Laboratory \
 Department of Computer Science \
 Carl R. Ice College of Engineering \
-Kansas State University \
+Kansas State University 
 
 
 
