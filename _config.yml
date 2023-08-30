@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Doina's Homepage"
 title_separator          : "-"
-name                     : &name "Doina Caragea"
+name                     : &name "Doina"
 description              : &description "personal description"
 url                      : https://dcaragea.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,8 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Doina Caragea"
-  avatar           : "image001.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "image001.jpg"
+  bio              : "Professor"
+  bio              : "Department of Computer Science"
   location         : "Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
