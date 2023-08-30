@@ -18,10 +18,3 @@ Kansas State University
 
 **Research Interests:** Machine Learning, Deep Learning, Data Science, Data mining, Text Mining,  Bioinformatics, Digital Ag.
 
-**Contact Information:**
-
-Doina Caragea \
-Department of Computer Science \
-2177 Engineering Building \
-1701D Platt St.\
-Manhattan, KS 66506
