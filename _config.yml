@@ -84,13 +84,12 @@ author:
   avatar           : "image001.jpg"
   bio              : "Professor"
   location         : "2177 Engineering Building"
-  location         : "Kansas State University"
-  employer         :
+  employer         : "Kansas State University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=GuO4UhsAAAAJ&hl=en&oi=ao"
   email            : "dcaragea@ksu.edu"
   researchgate     : #"https://www.researchgate.net/profile/Doina-Caragea"
-  uri              :
+  uri              : "https://outlook.office365.com/calendar/published/a4b87dc8415744728a2c6f39540d434c@ksu.edu/254f0543c519472a8951e373d60067ce11004609704671248059/calendar.html"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -104,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"https://orcid.org/my-orcid?orcid=0000-0002-6440-0914"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-6440-0914"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
