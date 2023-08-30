@@ -1,5 +1,5 @@
 ---
-title: "CIS831/CIS532"
+title: "CIS831/CIS532: Deep Learning"
 collection: teaching
 #type: "Undergraduate course"
 #permalink: /teaching/2014-spring-teaching-1
@@ -8,13 +8,6 @@ collection: teaching
 #location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Graduate/undergraduate level course that covers the foundations of deep learning, and also frameworks available for building and
+training deep neural networks. Offerings of the course: Fall 2017 and Fall 2019-2023.
 
-#Heading 1
-#======
-
-#Heading 2
-#======
-
-#Heading 3
-#======
