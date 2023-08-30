@@ -10,7 +10,6 @@ redirect_from:
 
 Professor \
 Don and Linda Glaser Keystone Research Scholar \
-Director, Machine Learning \& Data Science Laboratory \
 Department of Computer Science \
 Carl R. Ice College of Engineering \
 Kansas State University 
