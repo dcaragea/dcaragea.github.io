@@ -83,7 +83,8 @@ author:
   name             : "Doina Caragea"
   avatar           : "image001.jpg"
   bio              : "Professor"
-  location         : "2177 Engineering Building, Kansas State University"
+  location         : "2177 Engineering Building"
+  location         : "Kansas State University"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=GuO4UhsAAAAJ&hl=en&oi=ao"
@@ -103,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-6440-0914"
+  orcid            : #"https://orcid.org/my-orcid?orcid=0000-0002-6440-0914"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
