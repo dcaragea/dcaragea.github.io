@@ -83,9 +83,9 @@ author:
   name             : "Doina Caragea"
   avatar           : "image001.jpg"
   bio              : "Professor"
-  location         : "Department of Computer Science"  
-  location         : "Kansas State University"  
-  location         : "2169 Engineering Building"
+  bio              : "Department of Computer Science"  
+  bio              : "Kansas State University"  
+  location         : "2177 Engineering Building"
   location         : "1701D Platt St."
   location         : "Manhattan, KS 66502"
   employer         :
