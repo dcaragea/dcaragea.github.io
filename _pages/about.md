@@ -24,5 +24,4 @@ Doina Caragea \
 Department of Computer Science \
 2177 Engineering Building \
 1701D Platt St.\
-Manhattan, KS 66506\
-Email: dcaragea@ksu.edu 
+Manhattan, KS 66506
