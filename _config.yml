@@ -83,8 +83,7 @@ author:
   name             : "Doina Caragea"
   avatar           : "image001.jpg"
   bio              : "Professor"
-  location         : "2177 Engineering Building"
-  location         : "Kansas State University"
+  location         : "2177 Engineering Building, Kansas State University"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=GuO4UhsAAAAJ&hl=en&oi=ao"
